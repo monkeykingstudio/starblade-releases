@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.0",
+    "notes":  "Starblade Launcher 0.1.0",
+    "pub_date":  "2026-10-11T00:33:21Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1hEZDBIcFBUZVQvV1BxVWJBRmRXNkdleFNaanhWamhvc0tzbXYrT3ZlUDRPWEdNbm9mV3JBOGFtakJXbm5CdExQU1ZaZERTenhDL29Jay9xWnRWZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc4Nzk3CWZpbGU6U3RhcmJsYWRlIExhdW5jaGVyXzAuMS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMApvOHViakU2bVJndkhIWVFyYmZKdkV5VW9NSEphbzNQd0d6TFFkcThJekU2akNjNTFOOUpoMldnMFRhVGMyL2RDQ0xHYVhuRFMzQyswQTZ1TmEyS0FCdz09Cg==",
+                                             "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.1.0/StarbladeLauncher-0.1.0-setup.exe"
+                                         }
+                  }
+}

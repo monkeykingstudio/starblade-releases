@@ -1,19 +1,19 @@
 {
-    "version":  "0.3.0",
-    "notes":  "Starblade Launcher 0.3.0",
-    "pub_date":  "2026-10-14T20:23:54Z",
+    "version":  "0.3.1",
+    "notes":  "Starblade Launcher 0.3.1",
+    "pub_date":  "2026-10-15T15:38:39Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1Z1SEQySXJ3REM0THErUHJocEJ6WmYzZmVaYkpKNkREczVVdDlaQVJ3SWlFNzlSWkFtUWZzVTBQTlNzcncvVVQ0cEdDOXk5UHZBRFlDbExBRXNhb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA5MTU3CWZpbGU6U3RhcmJsYWRlIExhdW5jaGVyXzAuMy4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjMuMApiZlJCOFQ2bng4UXdpTzJaSGwxU0dHMGlkRjNjemJwdVdTalFsVHVZWkwwUkRMeVo5S2t5VHlDQU13dm82bjBkdFdIT0x0U0hUVTVWMjJWQS9SZklBZz09Cg==",
-                                             "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.0/StarbladeLauncher-0.3.0-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1FJNkZpU3paU2dINWVVU1dVMnVLV0FhMzFNdVFXeDNZV2RrZWs0NGRxbEt6d1lXSlNJZXo1dDA2Z01SN2pzNXcveHp3S29VeEFuTC9jSnpPVzR0N3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc4NDc5CWZpbGU6U3RhcmJsYWRlIExhdW5jaGVyXzAuMy4xX3g2NC1zZXR1cC5leGUKOUx3T3Nsc2dpUm9YRlNhYUQ1OFJFZy9IbkpibVRlRTRXYkk1WTRDd2VyQTJSdFFXaGU2QmowMGpIVnJaRStiS0NIUFRxNnMxUE5STlRJSmUzK0RpQ3c9PQo=",
+                                             "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.1/StarbladeLauncher-0.3.1-setup.exe"
                                          },
                       "darwin-aarch64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1RXRUdDZ2NsQjhBTzZoY3lPZHhYNDZwVDBocWF0UjdRL09PVzhMWUFkWkhkekpONk9hcUlGaThHdXhyMkVnYjFxSU92WXVydUhpZ256VHFPWmFFd0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA5NDMwCWZpbGU6U3RhcmJsYWRlTGF1bmNoZXItMC4zLjAtbWFjb3MuYXBwLnRhci5negpGNitmTllaZmNKYWVFU2p1MzZuQU5aVVJhRmJqckRGMUZ2bUlRQi81bEM3VVRDOHovaGdwK2tQS3VrT2xmZjY4Lzg1UHh0dG1yL0NtMTVrNW5Yb2RCUT09Cg==",
-                                             "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.0/StarbladeLauncher-0.3.0-macos.app.tar.gz"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1lldFdneXZHSGZqZ09ZclJ6ek5iNkJ2ZU80TzcwcERmVG5MdVpBYmViNTY0bUhKQW5ObmtBdUFvSXp0V24rS012bXgwMlpHaXFFMGlma3lRN1l6ZHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc4NzE1CWZpbGU6U3RhcmJsYWRlTGF1bmNoZXItMC4zLjEtbWFjb3MuYXBwLnRhci5negp0TUZLN2tZMXI2bXc1Tm9FWlNDRmJWTXVFMGdiS2RSWXp6VkRoN01DSEVNV3BKemNoRXd5WUkybDBic2p5Q2xDalNQdThneTAwNGV5T01ISVJhVThEdz09Cg==",
+                                             "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.1/StarbladeLauncher-0.3.1-macos.app.tar.gz"
                                          },
                       "darwin-x86_64":  {
-                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1RXRUdDZ2NsQjhBTzZoY3lPZHhYNDZwVDBocWF0UjdRL09PVzhMWUFkWkhkekpONk9hcUlGaThHdXhyMkVnYjFxSU92WXVydUhpZ256VHFPWmFFd0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA5NDMwCWZpbGU6U3RhcmJsYWRlTGF1bmNoZXItMC4zLjAtbWFjb3MuYXBwLnRhci5negpGNitmTllaZmNKYWVFU2p1MzZuQU5aVVJhRmJqckRGMUZ2bUlRQi81bEM3VVRDOHovaGdwK2tQS3VrT2xmZjY4Lzg1UHh0dG1yL0NtMTVrNW5Yb2RCUT09Cg==",
-                                            "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.0/StarbladeLauncher-0.3.0-macos.app.tar.gz"
+                                            "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRLzJ3SlZDWEZFS1lldFdneXZHSGZqZ09ZclJ6ek5iNkJ2ZU80TzcwcERmVG5MdVpBYmViNTY0bUhKQW5ObmtBdUFvSXp0V24rS012bXgwMlpHaXFFMGlma3lRN1l6ZHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDc4NzE1CWZpbGU6U3RhcmJsYWRlTGF1bmNoZXItMC4zLjEtbWFjb3MuYXBwLnRhci5negp0TUZLN2tZMXI2bXc1Tm9FWlNDRmJWTXVFMGdiS2RSWXp6VkRoN01DSEVNV3BKemNoRXd5WUkybDBic2p5Q2xDalNQdThneTAwNGV5T01ISVJhVThEdz09Cg==",
+                                            "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/launcher-v0.3.1/StarbladeLauncher-0.3.1-macos.app.tar.gz"
                                         }
                   }
 }

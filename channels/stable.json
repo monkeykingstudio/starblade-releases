@@ -1,7 +1,7 @@
 {
     "schema":  1,
     "game":  {
-                 "version":  "0.5.8",
+                 "version":  "0.5.9",
                  "protocol":  15,
                  "launch":  "Starblade.exe",
                  "files":  [
@@ -11,7 +11,7 @@
                                    "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.exe",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.exe",
                                                      "size":  109180928,
                                                      "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb"
                                                  }
@@ -19,58 +19,58 @@
                                },
                                {
                                    "name":  "Starblade.pck",
-                                   "size":  19451193832,
-                                   "sha256":  "d26f9cceee180442149f1d088e640ed1c8613b14bdc7bee4f9ee8250ca18c67a",
+                                   "size":  19451315784,
+                                   "sha256":  "c5821858b9624b246f533b1bc6f7171eebb0406531a0e7d5f6f067e0c3432148",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part001",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part001",
                                                      "size":  1992294400,
-                                                     "sha256":  "616080e4339d4842b24bb061cc855b31895f4291378774a601456aa642fa188a"
+                                                     "sha256":  "bbfb4f33b8b739b058ce4eb7580f0ea72e07dce24ee058df41162a1e3b86865d"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part002",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part002",
                                                      "size":  1992294400,
-                                                     "sha256":  "28a310abf3de5a13a7740983716c51c6fe5058c8e486ce42faf054a4e8ab094e"
+                                                     "sha256":  "cb9463af0154bb1905b81ac11fe5209cde9b9b46ed98ea424d5fa18dcc1b0057"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part003",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part003",
                                                      "size":  1992294400,
-                                                     "sha256":  "dac1cdb7a9925ff33e965443582377dbbe018a2ac0d74343f3dc9be8c8826349"
+                                                     "sha256":  "b8f271fa9e92962cba1bbdb44b6276f7dedbe13f627a3d18b3c8e7ea2e4e1db8"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part004",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part004",
                                                      "size":  1992294400,
-                                                     "sha256":  "48acf56f0ddb4af06ba3b7c22fc66ad7ded71ae89c05ed40a38c82a0ba730fae"
+                                                     "sha256":  "1210f0c259f7043363e0ac647ab54d039c6daab5bf0146425e398c07fd0b4c1e"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part005",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part005",
                                                      "size":  1992294400,
-                                                     "sha256":  "30ea4229f7f434c766289bf38d95868616e7148172a741bfbfc477ea8dd0eeee"
+                                                     "sha256":  "3569710d57d3e43c90d831e29b1da510c832222854ea5aa5598cb0182053e991"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part006",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part006",
                                                      "size":  1992294400,
-                                                     "sha256":  "492635101e48da6c4844e6aa4cb09bd6e0454fdbe07a69cb98d846213e0d4c98"
+                                                     "sha256":  "edbedf1e69aac52fab34503bf03fd2866fa851800644450c4234d2d8ec6d06cc"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part007",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part007",
                                                      "size":  1992294400,
-                                                     "sha256":  "0a2e271a21be1a67e411bf47dfca14638e29640b45f50828e25de982cb2ec9ed"
+                                                     "sha256":  "d5d3cc2a1ec1cbeadaf64b0e4a8c4dfda8a2faa5c17a8481f897d676ad32ef9c"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part008",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part008",
                                                      "size":  1992294400,
-                                                     "sha256":  "63f958d236a89b49e658e05a2c0e5403a2b4514793754698c8f7eac382f50e0f"
+                                                     "sha256":  "514dca1009cebae25a2b5ffe3dd812a77bd464c2535ea78ec1d27864b5093c32"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part009",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part009",
                                                      "size":  1992294400,
-                                                     "sha256":  "e2244ed90c5bc021527382507455a5f6fb87446b4e5f4675a35e0ffb2e47685b"
+                                                     "sha256":  "0a086009a1336a606267f46ab0d71a277e3a567bdfec2d58b9690fd9df9b0c1e"
                                                  },
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part010",
-                                                     "size":  1520544232,
-                                                     "sha256":  "b9d9299ce42a5134c443a08c20323fbe4660282f13755e528618e60a0a85c34d"
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part010",
+                                                     "size":  1520666184,
+                                                     "sha256":  "55838a29a2c3a77a4e70f852a3ee57667270ce052d11bec98dc5ba34bc9de024"
                                                  }
                                              ]
                                },
@@ -81,7 +81,7 @@
                                    "unpack":  "zip",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade-voice-win64.zip",
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade-voice-win64.zip",
                                                      "size":  56393724,
                                                      "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1"
                                                  }
@@ -91,7 +91,7 @@
              },
     "platforms":  {
                       "windows":  {
-                                      "version":  "0.5.8",
+                                      "version":  "0.5.9",
                                       "protocol":  15,
                                       "launch":  "Starblade.exe",
                                       "files":  [
@@ -101,7 +101,7 @@
                                                         "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.exe",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.exe",
                                                                           "size":  109180928,
                                                                           "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb"
                                                                       }
@@ -109,58 +109,58 @@
                                                     },
                                                     {
                                                         "name":  "Starblade.pck",
-                                                        "size":  19451193832,
-                                                        "sha256":  "d26f9cceee180442149f1d088e640ed1c8613b14bdc7bee4f9ee8250ca18c67a",
+                                                        "size":  19451315784,
+                                                        "sha256":  "c5821858b9624b246f533b1bc6f7171eebb0406531a0e7d5f6f067e0c3432148",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part001",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part001",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "616080e4339d4842b24bb061cc855b31895f4291378774a601456aa642fa188a"
+                                                                          "sha256":  "bbfb4f33b8b739b058ce4eb7580f0ea72e07dce24ee058df41162a1e3b86865d"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part002",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part002",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "28a310abf3de5a13a7740983716c51c6fe5058c8e486ce42faf054a4e8ab094e"
+                                                                          "sha256":  "cb9463af0154bb1905b81ac11fe5209cde9b9b46ed98ea424d5fa18dcc1b0057"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part003",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part003",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "dac1cdb7a9925ff33e965443582377dbbe018a2ac0d74343f3dc9be8c8826349"
+                                                                          "sha256":  "b8f271fa9e92962cba1bbdb44b6276f7dedbe13f627a3d18b3c8e7ea2e4e1db8"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part004",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part004",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "48acf56f0ddb4af06ba3b7c22fc66ad7ded71ae89c05ed40a38c82a0ba730fae"
+                                                                          "sha256":  "1210f0c259f7043363e0ac647ab54d039c6daab5bf0146425e398c07fd0b4c1e"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part005",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part005",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "30ea4229f7f434c766289bf38d95868616e7148172a741bfbfc477ea8dd0eeee"
+                                                                          "sha256":  "3569710d57d3e43c90d831e29b1da510c832222854ea5aa5598cb0182053e991"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part006",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part006",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "492635101e48da6c4844e6aa4cb09bd6e0454fdbe07a69cb98d846213e0d4c98"
+                                                                          "sha256":  "edbedf1e69aac52fab34503bf03fd2866fa851800644450c4234d2d8ec6d06cc"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part007",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part007",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "0a2e271a21be1a67e411bf47dfca14638e29640b45f50828e25de982cb2ec9ed"
+                                                                          "sha256":  "d5d3cc2a1ec1cbeadaf64b0e4a8c4dfda8a2faa5c17a8481f897d676ad32ef9c"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part008",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part008",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "63f958d236a89b49e658e05a2c0e5403a2b4514793754698c8f7eac382f50e0f"
+                                                                          "sha256":  "514dca1009cebae25a2b5ffe3dd812a77bd464c2535ea78ec1d27864b5093c32"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part009",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part009",
                                                                           "size":  1992294400,
-                                                                          "sha256":  "e2244ed90c5bc021527382507455a5f6fb87446b4e5f4675a35e0ffb2e47685b"
+                                                                          "sha256":  "0a086009a1336a606267f46ab0d71a277e3a567bdfec2d58b9690fd9df9b0c1e"
                                                                       },
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part010",
-                                                                          "size":  1520544232,
-                                                                          "sha256":  "b9d9299ce42a5134c443a08c20323fbe4660282f13755e528618e60a0a85c34d"
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part010",
+                                                                          "size":  1520666184,
+                                                                          "sha256":  "55838a29a2c3a77a4e70f852a3ee57667270ce052d11bec98dc5ba34bc9de024"
                                                                       }
                                                                   ]
                                                     },
@@ -171,7 +171,7 @@
                                                         "unpack":  "zip",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade-voice-win64.zip",
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade-voice-win64.zip",
                                                                           "size":  56393724,
                                                                           "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1"
                                                                       }
@@ -180,77 +180,77 @@
                                                 ]
                                   },
                       "macos":  {
-                                    "version":  "0.5.8",
+                                    "version":  "0.5.9",
                                     "protocol":  15,
                                     "launch":  "Starblade.app/Contents/MacOS/Starblade",
                                     "files":  [
                                                   {
                                                       "name":  "Starblade-macos.zip",
-                                                      "size":  60247024,
-                                                      "sha256":  "5c2320f1421fd6a1a087757538c2e95634eed54041f6ba19b7888384063dc69b",
+                                                      "size":  60247025,
+                                                      "sha256":  "9fa3409ffe31e47c3d0d08b705e05083e5f96f2871f1c5322aaf8feb74990e85",
                                                       "unpack":  "zip",
                                                       "parts":  [
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade-macos.zip",
-                                                                        "size":  60247024,
-                                                                        "sha256":  "5c2320f1421fd6a1a087757538c2e95634eed54041f6ba19b7888384063dc69b"
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade-macos.zip",
+                                                                        "size":  60247025,
+                                                                        "sha256":  "9fa3409ffe31e47c3d0d08b705e05083e5f96f2871f1c5322aaf8feb74990e85"
                                                                     }
                                                                 ]
                                                   },
                                                   {
                                                       "name":  "Starblade.app/Contents/Resources/Starblade.pck",
-                                                      "size":  19451193832,
-                                                      "sha256":  "d26f9cceee180442149f1d088e640ed1c8613b14bdc7bee4f9ee8250ca18c67a",
+                                                      "size":  19451315784,
+                                                      "sha256":  "c5821858b9624b246f533b1bc6f7171eebb0406531a0e7d5f6f067e0c3432148",
                                                       "parts":  [
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part001",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part001",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "616080e4339d4842b24bb061cc855b31895f4291378774a601456aa642fa188a"
+                                                                        "sha256":  "bbfb4f33b8b739b058ce4eb7580f0ea72e07dce24ee058df41162a1e3b86865d"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part002",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part002",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "28a310abf3de5a13a7740983716c51c6fe5058c8e486ce42faf054a4e8ab094e"
+                                                                        "sha256":  "cb9463af0154bb1905b81ac11fe5209cde9b9b46ed98ea424d5fa18dcc1b0057"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part003",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part003",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "dac1cdb7a9925ff33e965443582377dbbe018a2ac0d74343f3dc9be8c8826349"
+                                                                        "sha256":  "b8f271fa9e92962cba1bbdb44b6276f7dedbe13f627a3d18b3c8e7ea2e4e1db8"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part004",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part004",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "48acf56f0ddb4af06ba3b7c22fc66ad7ded71ae89c05ed40a38c82a0ba730fae"
+                                                                        "sha256":  "1210f0c259f7043363e0ac647ab54d039c6daab5bf0146425e398c07fd0b4c1e"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part005",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part005",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "30ea4229f7f434c766289bf38d95868616e7148172a741bfbfc477ea8dd0eeee"
+                                                                        "sha256":  "3569710d57d3e43c90d831e29b1da510c832222854ea5aa5598cb0182053e991"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part006",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part006",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "492635101e48da6c4844e6aa4cb09bd6e0454fdbe07a69cb98d846213e0d4c98"
+                                                                        "sha256":  "edbedf1e69aac52fab34503bf03fd2866fa851800644450c4234d2d8ec6d06cc"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part007",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part007",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "0a2e271a21be1a67e411bf47dfca14638e29640b45f50828e25de982cb2ec9ed"
+                                                                        "sha256":  "d5d3cc2a1ec1cbeadaf64b0e4a8c4dfda8a2faa5c17a8481f897d676ad32ef9c"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part008",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part008",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "63f958d236a89b49e658e05a2c0e5403a2b4514793754698c8f7eac382f50e0f"
+                                                                        "sha256":  "514dca1009cebae25a2b5ffe3dd812a77bd464c2535ea78ec1d27864b5093c32"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part009",
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part009",
                                                                         "size":  1992294400,
-                                                                        "sha256":  "e2244ed90c5bc021527382507455a5f6fb87446b4e5f4675a35e0ffb2e47685b"
+                                                                        "sha256":  "0a086009a1336a606267f46ab0d71a277e3a567bdfec2d58b9690fd9df9b0c1e"
                                                                     },
                                                                     {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.8/Starblade.pck.part010",
-                                                                        "size":  1520544232,
-                                                                        "sha256":  "b9d9299ce42a5134c443a08c20323fbe4660282f13755e528618e60a0a85c34d"
+                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.5.9/Starblade.pck.part010",
+                                                                        "size":  1520666184,
+                                                                        "sha256":  "55838a29a2c3a77a4e70f852a3ee57667270ce052d11bec98dc5ba34bc9de024"
                                                                     }
                                                                 ]
                                                   }
@@ -258,6 +258,17 @@
                                 }
                   },
     "notes":  [
+                  {
+                      "version":  "0.5.9",
+                      "date":  "2026-10-25",
+                      "lines":  [
+                                    "FRACTURE : quand le Viper de Kem est abattu, on l\u0027entend hurler puis sa radio meurt dans la friture.",
+                                    "Réacteurs, tirs et passages des vaisseaux dans le ciel nettement audibles depuis le sol, avec un effet de passage.",
+                                    "Après une mort, la mission reprend au dernier objectif atteint : chaque objectif est un point de contrôle, affiché sur la visière.",
+                                    "Les gobelins envoyés à l\u0027épave vous combattent dès qu\u0027ils vous voient au lieu de courir jusqu\u0027à leur poste.",
+                                    "Studio d\u0027animation : les prises enregistrées et les presets restent après avoir quitté le studio, qui rouvre sur le dernier porteur, la dernière arme et la dernière pose ; le coude se tourne, se plie et se tend à la main, les mains restant sur l\u0027arme."
+                                ]
+                  },
                   {
                       "version":  "0.5.8",
                       "date":  "2026-10-25",
@@ -408,22 +419,6 @@
                                     "Adversaires IA en solo (prudent, équilibré, agressif, expert), sans bonus de vitesse.",
                                     "Courses en ligne au HUB : Échap › COURSE EN LIGNE pour s\u0027inscrire, jusqu\u0027à 16 pilotes, résultats arbitrés par le serveur.",
                                     "Réseau : protocole 10, la mise à jour est obligatoire pour rejoindre le serveur."
-                                ]
-                  },
-                  {
-                      "version":  "0.4.0",
-                      "date":  "2026-10-16",
-                      "lines":  [
-                                    "Station minière près du HUB : un astéroïde géant veiné d\u0027or et de bleu, des cavernes et des tunnels navigables remplis de cristaux lumineux, des anneaux tournants, huit plateformes de forage animées et des pads d\u0027atterrissage reliés aux bâtiments.",
-                                    "HUB entièrement refait : salles, mobilier, couloirs et portes coulissantes, anneau tournant, grues arrondies, toits techniques et escaliers, en matériaux graphite mat et acier satiné.",
-                                    "Éclairage des stations : 17 nouvelles lampes sci-fi (néons, plafonniers, appliques, projecteurs de chantier) qui éclairent réellement.",
-                                    "Pads d\u0027atterrissage : panneaux holographiques, vrais feux de piste et feux de bord à la place des cubes clignotants.",
-                                    "Frozen Expanse devient un secteur de glace : astéroïdes de glace de glacier (bleu profond, givre, craquelures, cassures nettes et rebords de banquise, aiguilles de glace) et arches de glace géantes à traverser.",
-                                    "Astéroïdes volcaniques : de fines veines incandescentes partent des grandes fissures.",
-                                    "Dégâts des vaisseaux : impacts en étoile et fissures de métal chaud sur les pièces endommagées.",
-                                    "Équipement : armure légère MK2 et ensemble Protoarmor disponibles dans l\u0027inventaire.",
-                                    "Corrections : un vaisseau posé sur le ventre, train rentré, se couche à plat ; un vaisseau garé reste en place sur sa plateforme.",
-                                    "Launcher 0.3.2 : les sons de l\u0027interface reviennent."
                                 ]
                   }
               ],

@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "updated": "2026-10-29",
+  "studio": "Monkey King Studio",
+  "follow_url": "https://monkey-king-studio.itch.io",
+  "game_url": "https://monkey-king-studio.itch.io/starblade",
+  "devlogs_url": "https://monkey-king-studio.itch.io/starblade/devlog",
+  "items": [
+    {
+      "id": "1738208",
+      "kind": "devlog",
+      "number": 6,
+      "date": "2026-10-29",
+      "title": "PHANTOM LASH, real dismemberment and heads that pop: alpha 0.7.0",
+      "summary": "Le grappin énergétique PHANTOM LASH, le vrai démembrement des gobelins, les têtes qui explosent et la caméra balle, en six GIF.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1738208/devlog-6-phantom-lash-real-dismemberment-and-heads-that-pop-alpha-070"
+    },
+    {
+      "id": "1736433",
+      "kind": "devlog",
+      "number": 5,
+      "date": "2026-10-28",
+      "title": "Three days that rebuilt the FPS: before / after",
+      "summary": "Trois jours de refonte du combat à pied, avant / après : mouvements, armes, couvertures, destruction, IA des gobelins.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1736433/devlog-5-three-days-that-rebuilt-the-fps-before-after"
+    },
+    {
+      "id": "1728550",
+      "kind": "devlog",
+      "number": 4,
+      "date": "2026-10-25",
+      "title": "\"The Last Signal\": a V1 prototype of our first story mission",
+      "summary": "FRACTURE V2, notre première mission scénarisée : poursuite aérienne, boîte noire, défense du relais, Ruk et extraction.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1728550/devlog-4-the-last-signal-a-v1-prototype-of-our-first-story-mission"
+    },
+    {
+      "id": "1722292",
+      "kind": "devlog",
+      "number": 3,
+      "date": "2026-10-22",
+      "title": "Building FRACTURE, step by step: from blockout to an alien valley",
+      "summary": "La construction de FRACTURE en trente-six heures : terrain, lune fracturée, prairies alien, flore, faune et atmosphère.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1722292/devlog-3-building-fracture-step-by-step-from-blockout-to-an-alien-valley"
+    },
+    {
+      "id": "1721339",
+      "kind": "devlog",
+      "number": 2,
+      "date": "2026-10-21",
+      "title": "On foot: FPS combat, FRACTURE and the Space Gobelins",
+      "summary": "On sort du cockpit : quatre armes, le stand de tir, le premier niveau extérieur et les trois Space Gobelins.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1721339/devlog-2-on-foot-fps-combat-fracture-and-the-space-gobelins"
+    },
+    {
+      "id": "1718888",
+      "kind": "devlog",
+      "number": 1,
+      "date": "2026-10-20",
+      "title": "NOVA: giving your ship a voice and a personality",
+      "summary": "NOVA, l'ordinateur de bord à qui l'on parle vraiment : reconnaissance vocale locale, ordres exécutés, personnalité et humour.",
+      "url": "https://monkey-king-studio.itch.io/starblade/devlog/1718888/devlog-1-nova-giving-your-ship-a-voice-and-a-personalityrepo"
+    }
+  ]
+}

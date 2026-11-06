@@ -1,99 +1,812 @@
 {
     "schema":  1,
     "game":  {
-                 "version":  "0.9.2",
-                 "protocol":  27,
-                 "launch":  "Starblade.exe",
+                 "version":  "1.0.0",
+                 "protocol":  0,
+                 "launch":  "AngamaraPOC.exe",
                  "files":  [
                                {
-                                   "name":  "Starblade.exe",
-                                   "size":  109180928,
-                                   "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb",
+                                   "name":  "AngamaraPOC.exe",
+                                   "size":  171520,
+                                   "sha256":  "407d92948f34f0608ea66be09be2428c1ce08bdc3229645440022171a63c211d",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.exe",
-                                                     "size":  109180928,
-                                                     "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb"
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u001-AngamaraPOC.exe",
+                                                     "size":  171520,
+                                                     "sha256":  "407d92948f34f0608ea66be09be2428c1ce08bdc3229645440022171a63c211d"
                                                  }
                                              ]
                                },
                                {
-                                   "name":  "Starblade.pck",
-                                   "size":  23107148012,
-                                   "sha256":  "890c4ae61fc254980d9873a325bb804ba3c9af9c51dacd842088a85bc9cf8f01",
+                                   "name":  "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+                                   "size":  2232688,
+                                   "sha256":  "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part001",
-                                                     "size":  1992294400,
-                                                     "sha256":  "26c3181dde2197bff580ac622c8b7011228b30b38d3330a22fc103d8df5b2dad"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part002",
-                                                     "size":  1992294400,
-                                                     "sha256":  "fbeb51537a88a6045cd187403c0b85d1efc026d58f1e950959fac0d4c7f09e43"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part003",
-                                                     "size":  1992294400,
-                                                     "sha256":  "8ab448af45ecbbdacfe0f05a6c38e56eeb062d6a899628ced5fc7a0866fd6ca2"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part004",
-                                                     "size":  1992294400,
-                                                     "sha256":  "9dcf97ebdb3f0b9eea133787d3da0375ec7aacb141a026cb5eeb0487d1897f1a"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part005",
-                                                     "size":  1992294400,
-                                                     "sha256":  "c8da115f894b7a08d6760768ed2e45944f42a8af17c001374b736e1bd2567e26"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part006",
-                                                     "size":  1992294400,
-                                                     "sha256":  "6ff8dec59da92a615cb330d73a86cdfd9272d26d72f0831852f8a9cf09057ecd"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part007",
-                                                     "size":  1992294400,
-                                                     "sha256":  "34ad414c905cc49cd684e7f193e301f6e57597edca5223257baf4e5aaeba6460"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part008",
-                                                     "size":  1992294400,
-                                                     "sha256":  "fbacef828aee124bfe7a792f5f8ea7f100367a6489220b56738f66f42f5f2d4b"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part009",
-                                                     "size":  1992294400,
-                                                     "sha256":  "89202d2c2cd6ca43f46373b2890aa9bb8fe27b736dbb666fe5051c6df7e6c266"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part010",
-                                                     "size":  1992294400,
-                                                     "sha256":  "7189aff7f8f43784b00007da262a165e3867dc5f861df168d91dd2960f426ab2"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part011",
-                                                     "size":  1992294400,
-                                                     "sha256":  "494966af05136109f22bf207a9560664f9d7cc1097ae3a95cf5eac16fed68571"
-                                                 },
-                                                 {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part012",
-                                                     "size":  1191909612,
-                                                     "sha256":  "3b00d408282e86101ac936465af8a234395c9460e5c7e92e53887d31812374c5"
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u002-dbghelp.dll",
+                                                     "size":  2232688,
+                                                     "sha256":  "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3"
                                                  }
                                              ]
                                },
                                {
-                                   "name":  "Starblade-voice-win64.zip",
-                                   "size":  56393724,
-                                   "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1",
-                                   "unpack":  "zip",
+                                   "name":  "Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+                                   "size":  2547080,
+                                   "sha256":  "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee",
                                    "parts":  [
                                                  {
-                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade-voice-win64.zip",
-                                                     "size":  56393724,
-                                                     "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1"
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u003-msquic.dll",
+                                                     "size":  2547080,
+                                                     "sha256":  "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+                                   "size":  5799016,
+                                   "sha256":  "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u004-GFSDK_Aftermath_Lib.x64.dll",
+                                                     "size":  5799016,
+                                                     "sha256":  "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+                                   "size":  59832,
+                                   "sha256":  "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u005-libogg_64.dll",
+                                                     "size":  59832,
+                                                     "sha256":  "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+                                   "size":  1724856,
+                                   "sha256":  "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u006-libvorbis_64.dll",
+                                                     "size":  1724856,
+                                                     "sha256":  "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+                                   "size":  48568,
+                                   "sha256":  "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u007-libvorbisfile_64.dll",
+                                                     "size":  48568,
+                                                     "sha256":  "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
+                                   "size":  8161680,
+                                   "sha256":  "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u008-VkLayer_api_dump.dll",
+                                                     "size":  8161680,
+                                                     "sha256":  "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
+                                   "size":  13848,
+                                   "sha256":  "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u009-VkLayer_api_dump.json",
+                                                     "size":  13848,
+                                                     "sha256":  "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll",
+                                   "size":  2890128,
+                                   "sha256":  "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u010-VkLayer_crash_diagnostic.dll",
+                                                     "size":  2890128,
+                                                     "sha256":  "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json",
+                                   "size":  23055,
+                                   "sha256":  "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u011-VkLayer_crash_diagnostic.json",
+                                                     "size":  23055,
+                                                     "sha256":  "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
+                                   "size":  8166288,
+                                   "sha256":  "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u012-VkLayer_gfxreconstruct.dll",
+                                                     "size":  8166288,
+                                                     "sha256":  "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
+                                   "size":  28099,
+                                   "sha256":  "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u013-VkLayer_gfxreconstruct.json",
+                                                     "size":  28099,
+                                                     "sha256":  "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
+                                   "size":  1485200,
+                                   "sha256":  "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u014-VkLayer_khronos_profiles.dll",
+                                                     "size":  1485200,
+                                                     "sha256":  "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
+                                   "size":  66696,
+                                   "sha256":  "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u015-VkLayer_khronos_profiles.json",
+                                                     "size":  66696,
+                                                     "sha256":  "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll",
+                                   "size":  415632,
+                                   "sha256":  "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u016-VkLayer_khronos_shader_object.dll",
+                                                     "size":  415632,
+                                                     "sha256":  "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json",
+                                   "size":  4455,
+                                   "sha256":  "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u017-VkLayer_khronos_shader_object.json",
+                                                     "size":  4455,
+                                                     "sha256":  "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
+                                   "size":  397192,
+                                   "sha256":  "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u018-VkLayer_khronos_synchronization2.dll",
+                                                     "size":  397192,
+                                                     "sha256":  "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
+                                   "size":  1910,
+                                   "sha256":  "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u019-VkLayer_khronos_synchronization2.json",
+                                                     "size":  1910,
+                                                     "sha256":  "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
+                                   "size":  19509136,
+                                   "sha256":  "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u020-VkLayer_khronos_validation.dll",
+                                                     "size":  19509136,
+                                                     "sha256":  "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
+                                   "size":  95917,
+                                   "sha256":  "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u021-VkLayer_khronos_validation.json",
+                                                     "size":  95917,
+                                                     "sha256":  "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+                                   "size":  69056,
+                                   "sha256":  "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u022-WinPixEventRuntime.dll",
+                                                     "size":  69056,
+                                                     "sha256":  "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+                                   "size":  858152,
+                                   "sha256":  "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u023-xaudio2_9redist.dll",
+                                                     "size":  858152,
+                                                     "sha256":  "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Config/StagedBuild_StarbladeUnreal.ini",
+                                   "size":  3,
+                                   "sha256":  "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u024-StagedBuild_StarbladeUnreal.ini",
+                                                     "size":  3,
+                                                     "sha256":  "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Content/Renderer/TessellationTable.bin",
+                                   "size":  259568,
+                                   "sha256":  "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u025-TessellationTable.bin",
+                                                     "size":  259568,
+                                                     "sha256":  "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Content/Slate/Cursor/invisible.cur",
+                                   "size":  326,
+                                   "sha256":  "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u026-invisible.cur",
+                                                     "size":  326,
+                                                     "sha256":  "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Extras/Redist/en-us/vc_redist.arm64.exe",
+                                   "size":  11751688,
+                                   "sha256":  "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u027-vc_redist.arm64.exe",
+                                                     "size":  11751688,
+                                                     "sha256":  "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Extras/Redist/en-us/vc_redist.x64.exe",
+                                   "size":  18569648,
+                                   "sha256":  "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u028-vc_redist.x64.exe",
+                                                     "size":  18569648,
+                                                     "sha256":  "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+                                   "size":  17339384,
+                                   "sha256":  "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u029-onnxruntime.dll",
+                                                     "size":  17339384,
+                                                     "sha256":  "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Manifest_NonUFSFiles_Win64.txt",
+                                   "size":  5594,
+                                   "sha256":  "04d6c97912e6f4253e0c91c4a598ab77757a7b4fbd1537404e83bd3ff3a658f5",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u030-Manifest_NonUFSFiles_Win64.txt",
+                                                     "size":  5594,
+                                                     "sha256":  "04d6c97912e6f4253e0c91c4a598ab77757a7b4fbd1537404e83bd3ff3a658f5"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "Manifest_UFSFiles_Win64.txt",
+                                   "size":  2697038,
+                                   "sha256":  "572d89f9548df8e925dbe8acdb3bca5f54331719bd95b011a6c1087e283b09a9",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u031-Manifest_UFSFiles_Win64.txt",
+                                                     "size":  2697038,
+                                                     "sha256":  "572d89f9548df8e925dbe8acdb3bca5f54331719bd95b011a6c1087e283b09a9"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "NOTICES.txt",
+                                   "size":  111,
+                                   "sha256":  "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u032-NOTICES.txt",
+                                                     "size":  111,
+                                                     "sha256":  "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/AngamaraPOC.exe",
+                                   "size":  342707200,
+                                   "sha256":  "78e43cc9dcf9cf95317cbc34a65917c3faaa1ec9f437060e751684778bf7a430",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u033-AngamaraPOC.exe",
+                                                     "size":  342707200,
+                                                     "sha256":  "78e43cc9dcf9cf95317cbc34a65917c3faaa1ec9f437060e751684778bf7a430"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/D3D12/x64/D3D12Core.dll",
+                                   "size":  4831768,
+                                   "sha256":  "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u034-D3D12Core.dll",
+                                                     "size":  4831768,
+                                                     "sha256":  "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
+                                   "size":  4943344,
+                                   "sha256":  "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u035-d3d12SDKLayers.dll",
+                                                     "size":  4943344,
+                                                     "sha256":  "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/DML/x64/DirectML.dll",
+                                   "size":  18538488,
+                                   "sha256":  "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u036-DirectML.dll",
+                                                     "size":  18538488,
+                                                     "sha256":  "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/tbb12.dll",
+                                   "size":  342456,
+                                   "sha256":  "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u037-tbb12.dll",
+                                                     "size":  342456,
+                                                     "sha256":  "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Binaries/Win64/tbbmalloc.dll",
+                                   "size":  117176,
+                                   "sha256":  "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u038-tbbmalloc.dll",
+                                                     "size":  117176,
+                                                     "sha256":  "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Content/Paks/global.ucas",
+                                   "size":  3257504,
+                                   "sha256":  "90f726d7becfbd005e6f3eaa5e039c104305093c4898479ec47d5db921d5e7c6",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u039-global.ucas",
+                                                     "size":  3257504,
+                                                     "sha256":  "90f726d7becfbd005e6f3eaa5e039c104305093c4898479ec47d5db921d5e7c6"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Content/Paks/global.utoc",
+                                   "size":  794,
+                                   "sha256":  "b25ede9b8b6a8ee96a7aa327d2f1a6d48e3a9c124ecb30e74f7d6afd4d7e07e8",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u040-global.utoc",
+                                                     "size":  794,
+                                                     "sha256":  "b25ede9b8b6a8ee96a7aa327d2f1a6d48e3a9c124ecb30e74f7d6afd4d7e07e8"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.pak",
+                                   "size":  56796524,
+                                   "sha256":  "3042fc1b5bc3324cab05405c7d1d19115b3e7747ed4572387bc7a967ae0650cc",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u041-StarbladeUnreal-Windows.pak",
+                                                     "size":  56796524,
+                                                     "sha256":  "3042fc1b5bc3324cab05405c7d1d19115b3e7747ed4572387bc7a967ae0650cc"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.ucas",
+                                   "size":  10329589408,
+                                   "sha256":  "3d4db689136859104f4b3b0428ff49c9a9be27b7e84ca10287d8a8b9e3e90292",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part001",
+                                                     "size":  1992294400,
+                                                     "sha256":  "ae204e1c1edc8fd94993dd3af75b266d960cfdc46a2b81d55d6ec18eca6239ca"
+                                                 },
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part002",
+                                                     "size":  1992294400,
+                                                     "sha256":  "9f4f8ed605d7de7965bd01ce64125646eea48fb8599317c814a0adba36bd3568"
+                                                 },
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part003",
+                                                     "size":  1992294400,
+                                                     "sha256":  "cb0b2c24c5f4c87c78b20aaead132456b618f3abd600054bb5daaa7d135af979"
+                                                 },
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part004",
+                                                     "size":  1992294400,
+                                                     "sha256":  "06189c070fcc0740259dd0e8cb09bce321ea87177ef8154bbdbe2a4b3948c6d0"
+                                                 },
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part005",
+                                                     "size":  1992294400,
+                                                     "sha256":  "10638deb4d9d8e298b1dd83b8322c4874e8dace54d7e145f9c981689614cb242"
+                                                 },
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part006",
+                                                     "size":  368117408,
+                                                     "sha256":  "a80089c0e02f123c173756642cdbf3d218d36db0cdba816aa6d7cdfbd4a67c39"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.utoc",
+                                   "size":  5775478,
+                                   "sha256":  "bcb3e2700dd76913b97ba26bd49bf070c1d44c4cbdc35659e26d17558e75ab6c",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u043-StarbladeUnreal-Windows.utoc",
+                                                     "size":  5775478,
+                                                     "sha256":  "bcb3e2700dd76913b97ba26bd49bf070c1d44c4cbdc35659e26d17558e75ab6c"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll",
+                                   "size":  58956912,
+                                   "sha256":  "d00b5b0ab29c3ca101b70c3a5ecb3a01b7ef33766a3383a28a18623083e6123e",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u044-nvngx_dlss.dll",
+                                                     "size":  58956912,
+                                                     "sha256":  "d00b5b0ab29c3ca101b70c3a5ecb3a01b7ef33766a3383a28a18623083e6123e"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlssd.dll",
+                                   "size":  48343664,
+                                   "sha256":  "b49435ae346f227feafe7bbe937d88277ea0ee7323975ec06488f377fdb46cee",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u045-nvngx_dlssd.dll",
+                                                     "size":  48343664,
+                                                     "sha256":  "b49435ae346f227feafe7bbe937d88277ea0ee7323975ec06488f377fdb46cee"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_framegeneration_dx12.dll",
+                                   "size":  40085776,
+                                   "sha256":  "02297beedd285e822d3a64f314cf00faf378dcec0edc47ff0c4dd71b3a8c2f18",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u046-amd_fidelityfx_framegeneration_dx12.dll",
+                                                     "size":  40085776,
+                                                     "sha256":  "02297beedd285e822d3a64f314cf00faf378dcec0edc47ff0c4dd71b3a8c2f18"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_loader_dx12.dll",
+                                   "size":  26376,
+                                   "sha256":  "e2d85aa05a9bd9ed8b38935fdf5199372cca6f74c12015143bb6f945ee1608aa",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u047-amd_fidelityfx_loader_dx12.dll",
+                                                     "size":  26376,
+                                                     "sha256":  "e2d85aa05a9bd9ed8b38935fdf5199372cca6f74c12015143bb6f945ee1608aa"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_upscaler_dx12.dll",
+                                   "size":  28761864,
+                                   "sha256":  "d0dcccc74a43c44ba435b7a369b456e0970d8a4464e4bd683119b374f2c9fb46",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u048-amd_fidelityfx_upscaler_dx12.dll",
+                                                     "size":  28761864,
+                                                     "sha256":  "d0dcccc74a43c44ba435b7a369b456e0970d8a4464e4bd683119b374f2c9fb46"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/nvngx_deepdvc.dll",
+                                   "size":  12354672,
+                                   "sha256":  "7a251b7b0a8477297d0145e7690ee513f616cdf0ad0b44a89a9e9d0e1cf2999c",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u049-nvngx_deepdvc.dll",
+                                                     "size":  12354672,
+                                                     "sha256":  "7a251b7b0a8477297d0145e7690ee513f616cdf0ad0b44a89a9e9d0e1cf2999c"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/nvngx_dlssg.dll",
+                                   "size":  8044656,
+                                   "sha256":  "b49508de88b4c590a84f56128871d784cb87aaa2d32a0258f7786fffaf837fdc",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u050-nvngx_dlssg.dll",
+                                                     "size":  8044656,
+                                                     "sha256":  "b49508de88b4c590a84f56128871d784cb87aaa2d32a0258f7786fffaf837fdc"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.common.dll",
+                                   "size":  849536,
+                                   "sha256":  "0ebd09bd8fe3ed12b08a40d38554ea7a63ae51d5fdecc4a60b9daf785d9bba4f",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u051-sl.common.dll",
+                                                     "size":  849536,
+                                                     "sha256":  "0ebd09bd8fe3ed12b08a40d38554ea7a63ae51d5fdecc4a60b9daf785d9bba4f"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.deepdvc.dll",
+                                   "size":  382080,
+                                   "sha256":  "aed0dd0fd0bc316c958c954a446722015a9671d18449bd525638077b536fac7e",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u052-sl.deepdvc.dll",
+                                                     "size":  382080,
+                                                     "sha256":  "aed0dd0fd0bc316c958c954a446722015a9671d18449bd525638077b536fac7e"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.dlss_g.dll",
+                                   "size":  832128,
+                                   "sha256":  "281d7611a2f319a7f3590cd3e37937231e10a18fbe22b8712477c68d60fcca49",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u053-sl.dlss_g.dll",
+                                                     "size":  832128,
+                                                     "sha256":  "281d7611a2f319a7f3590cd3e37937231e10a18fbe22b8712477c68d60fcca49"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.imgui.dll",
+                                   "size":  1360512,
+                                   "sha256":  "a6881008a8f6deeb23cd2bbd8b848a2a6bedf6d9f633b43bd210c8047f338691",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u054-sl.imgui.dll",
+                                                     "size":  1360512,
+                                                     "sha256":  "a6881008a8f6deeb23cd2bbd8b848a2a6bedf6d9f633b43bd210c8047f338691"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.interposer.dll",
+                                   "size":  704640,
+                                   "sha256":  "809fd5a595b52daa57288f7ac94843b28f06a7e8e99f3f5dea20cfd5fcec94d5",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u055-sl.interposer.dll",
+                                                     "size":  704640,
+                                                     "sha256":  "809fd5a595b52daa57288f7ac94843b28f06a7e8e99f3f5dea20cfd5fcec94d5"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.pcl.dll",
+                                   "size":  354944,
+                                   "sha256":  "ce7f155b2d9406524d81e6b57df3672f2101caba22c5763c6f20448d62ddb873",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u056-sl.pcl.dll",
+                                                     "size":  354944,
+                                                     "sha256":  "ce7f155b2d9406524d81e6b57df3672f2101caba22c5763c6f20448d62ddb873"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.reflex.dll",
+                                   "size":  390272,
+                                   "sha256":  "1f80e052cada9b2608fdd706ad0b2550b516ae3ade8fcb48569a86810c17ea3d",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u057-sl.reflex.dll",
+                                                     "size":  390272,
+                                                     "sha256":  "1f80e052cada9b2608fdd706ad0b2550b516ae3ade8fcb48569a86810c17ea3d"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll",
+                                   "size":  3104880,
+                                   "sha256":  "306556a9e64b90e9f94a6645c9425980a74a6ee47ae895bc10e3937edfa77419",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u058-nvngx_deepdvc.dll",
+                                                     "size":  3104880,
+                                                     "sha256":  "306556a9e64b90e9f94a6645c9425980a74a6ee47ae895bc10e3937edfa77419"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_dlssg.dll",
+                                   "size":  7506544,
+                                   "sha256":  "8d59d49b36410dd6b62fef2503a5871d347415bd85d943fa0848563a95dd50c7",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u059-nvngx_dlssg.dll",
+                                                     "size":  7506544,
+                                                     "sha256":  "8d59d49b36410dd6b62fef2503a5871d347415bd85d943fa0848563a95dd50c7"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.common.dll",
+                                   "size":  843904,
+                                   "sha256":  "38eea3b4209afc455636ea372b5933d65fcc13becec6c84d101dcfc4d8648f75",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u060-sl.common.dll",
+                                                     "size":  843904,
+                                                     "sha256":  "38eea3b4209afc455636ea372b5933d65fcc13becec6c84d101dcfc4d8648f75"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.deepdvc.dll",
+                                   "size":  376448,
+                                   "sha256":  "2d493dccfefdc0580deb85afc65e70ae36adf77c6dd3c745c60623d9b8ac54f9",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u061-sl.deepdvc.dll",
+                                                     "size":  376448,
+                                                     "sha256":  "2d493dccfefdc0580deb85afc65e70ae36adf77c6dd3c745c60623d9b8ac54f9"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.dlss_g.dll",
+                                   "size":  637056,
+                                   "sha256":  "3ed9538df724993bea8a050195a6a78b9c8c8a566d5b05ade477aab3c390e90f",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u062-sl.dlss_g.dll",
+                                                     "size":  637056,
+                                                     "sha256":  "3ed9538df724993bea8a050195a6a78b9c8c8a566d5b05ade477aab3c390e90f"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.interposer.dll",
+                                   "size":  652928,
+                                   "sha256":  "b1d7395aebd7b9722841d64dcf7433680020b6a8e421f851c16d5ba0c2182edf",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u063-sl.interposer.dll",
+                                                     "size":  652928,
+                                                     "sha256":  "b1d7395aebd7b9722841d64dcf7433680020b6a8e421f851c16d5ba0c2182edf"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.pcl.dll",
+                                   "size":  360064,
+                                   "sha256":  "5698c38e722318681f215c9fe68e45b9bedd51378acc699d8eee26e961e57770",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u064-sl.pcl.dll",
+                                                     "size":  360064,
+                                                     "sha256":  "5698c38e722318681f215c9fe68e45b9bedd51378acc699d8eee26e961e57770"
+                                                 }
+                                             ]
+                               },
+                               {
+                                   "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.reflex.dll",
+                                   "size":  388736,
+                                   "sha256":  "443577e869352436ff7ec8f4d9c90418d3e95368436ce219261e0f4f07a38122",
+                                   "parts":  [
+                                                 {
+                                                     "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u065-sl.reflex.dll",
+                                                     "size":  388736,
+                                                     "sha256":  "443577e869352436ff7ec8f4d9c90418d3e95368436ce219261e0f4f07a38122"
                                                  }
                                              ]
                                }
@@ -101,193 +814,830 @@
              },
     "platforms":  {
                       "windows":  {
-                                      "version":  "0.9.2",
-                                      "protocol":  27,
-                                      "launch":  "Starblade.exe",
+                                      "version":  "1.0.0",
+                                      "protocol":  0,
+                                      "launch":  "AngamaraPOC.exe",
                                       "files":  [
                                                     {
-                                                        "name":  "Starblade.exe",
-                                                        "size":  109180928,
-                                                        "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb",
+                                                        "name":  "AngamaraPOC.exe",
+                                                        "size":  171520,
+                                                        "sha256":  "407d92948f34f0608ea66be09be2428c1ce08bdc3229645440022171a63c211d",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.exe",
-                                                                          "size":  109180928,
-                                                                          "sha256":  "d0ceb12ca58ee42a918d01c6900d7b37614e41981871e9e8d2a9271647882fdb"
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u001-AngamaraPOC.exe",
+                                                                          "size":  171520,
+                                                                          "sha256":  "407d92948f34f0608ea66be09be2428c1ce08bdc3229645440022171a63c211d"
                                                                       }
                                                                   ]
                                                     },
                                                     {
-                                                        "name":  "Starblade.pck",
-                                                        "size":  23107148012,
-                                                        "sha256":  "890c4ae61fc254980d9873a325bb804ba3c9af9c51dacd842088a85bc9cf8f01",
+                                                        "name":  "Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
+                                                        "size":  2232688,
+                                                        "sha256":  "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part001",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "26c3181dde2197bff580ac622c8b7011228b30b38d3330a22fc103d8df5b2dad"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part002",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "fbeb51537a88a6045cd187403c0b85d1efc026d58f1e950959fac0d4c7f09e43"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part003",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "8ab448af45ecbbdacfe0f05a6c38e56eeb062d6a899628ced5fc7a0866fd6ca2"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part004",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "9dcf97ebdb3f0b9eea133787d3da0375ec7aacb141a026cb5eeb0487d1897f1a"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part005",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "c8da115f894b7a08d6760768ed2e45944f42a8af17c001374b736e1bd2567e26"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part006",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "6ff8dec59da92a615cb330d73a86cdfd9272d26d72f0831852f8a9cf09057ecd"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part007",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "34ad414c905cc49cd684e7f193e301f6e57597edca5223257baf4e5aaeba6460"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part008",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "fbacef828aee124bfe7a792f5f8ea7f100367a6489220b56738f66f42f5f2d4b"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part009",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "89202d2c2cd6ca43f46373b2890aa9bb8fe27b736dbb666fe5051c6df7e6c266"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part010",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "7189aff7f8f43784b00007da262a165e3867dc5f861df168d91dd2960f426ab2"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part011",
-                                                                          "size":  1992294400,
-                                                                          "sha256":  "494966af05136109f22bf207a9560664f9d7cc1097ae3a95cf5eac16fed68571"
-                                                                      },
-                                                                      {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part012",
-                                                                          "size":  1191909612,
-                                                                          "sha256":  "3b00d408282e86101ac936465af8a234395c9460e5c7e92e53887d31812374c5"
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u002-dbghelp.dll",
+                                                                          "size":  2232688,
+                                                                          "sha256":  "441a7ccee2f854352366e783fcb79fe895d09ad4c577689319e1a664f296c4a3"
                                                                       }
                                                                   ]
                                                     },
                                                     {
-                                                        "name":  "Starblade-voice-win64.zip",
-                                                        "size":  56393724,
-                                                        "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1",
-                                                        "unpack":  "zip",
+                                                        "name":  "Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll",
+                                                        "size":  2547080,
+                                                        "sha256":  "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee",
                                                         "parts":  [
                                                                       {
-                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade-voice-win64.zip",
-                                                                          "size":  56393724,
-                                                                          "sha256":  "290622382582b5cfba3bdb309d49017b79d56a98bd6c0696758cfd3ab6228df1"
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u003-msquic.dll",
+                                                                          "size":  2547080,
+                                                                          "sha256":  "27c231d80310ea9005a6b0c17054f28887272723477e7292a7f9d63b6d1579ee"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll",
+                                                        "size":  5799016,
+                                                        "sha256":  "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u004-GFSDK_Aftermath_Lib.x64.dll",
+                                                                          "size":  5799016,
+                                                                          "sha256":  "ce49be4194706417ccdc57833aec478faa1e08646157688c879fe616d43abd65"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll",
+                                                        "size":  59832,
+                                                        "sha256":  "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u005-libogg_64.dll",
+                                                                          "size":  59832,
+                                                                          "sha256":  "c719a5f165e4afe29e92a7eee9762c2e9f301a177885ab1ab8d2c7f57d4a86bf"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll",
+                                                        "size":  1724856,
+                                                        "sha256":  "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u006-libvorbis_64.dll",
+                                                                          "size":  1724856,
+                                                                          "sha256":  "b8a3e31a6c2d401809bae7aa0fd29f49c2114eeccfba4dc5c7ac8eddbd4b7a98"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll",
+                                                        "size":  48568,
+                                                        "sha256":  "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u007-libvorbisfile_64.dll",
+                                                                          "size":  48568,
+                                                                          "sha256":  "6d0e4395bc4d0ef501c3f7f7b4e63fa0cf2ab2ca80328560b7cb10e6d5a171cf"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll",
+                                                        "size":  8161680,
+                                                        "sha256":  "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u008-VkLayer_api_dump.dll",
+                                                                          "size":  8161680,
+                                                                          "sha256":  "583db3d1acd76363f0f67d9da414dd147ca9ffab4a47824027351b063fe66aea"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json",
+                                                        "size":  13848,
+                                                        "sha256":  "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u009-VkLayer_api_dump.json",
+                                                                          "size":  13848,
+                                                                          "sha256":  "9e55221c225dce4b5448bac7dadb7e39fd216f51354dde02e58f950f4a0dd80b"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll",
+                                                        "size":  2890128,
+                                                        "sha256":  "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u010-VkLayer_crash_diagnostic.dll",
+                                                                          "size":  2890128,
+                                                                          "sha256":  "8e080a40ac452c4b249b9060e2f4c208af9159afba9e75e91d1c55d85e387d04"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.json",
+                                                        "size":  23055,
+                                                        "sha256":  "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u011-VkLayer_crash_diagnostic.json",
+                                                                          "size":  23055,
+                                                                          "sha256":  "578bde354874789671dee1a96468c965619c9f3ba16cfa65f850e81a80674087"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.dll",
+                                                        "size":  8166288,
+                                                        "sha256":  "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u012-VkLayer_gfxreconstruct.dll",
+                                                                          "size":  8166288,
+                                                                          "sha256":  "780c4bcae69a50e38181edfd20a58780fa02539f4ff302c8c4a0e2899ee7a0cb"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_gfxreconstruct.json",
+                                                        "size":  28099,
+                                                        "sha256":  "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u013-VkLayer_gfxreconstruct.json",
+                                                                          "size":  28099,
+                                                                          "sha256":  "71d4e243a2af74874f4f61378bdfe3753cb01ce5eb9b98400d83612bf882a815"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.dll",
+                                                        "size":  1485200,
+                                                        "sha256":  "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u014-VkLayer_khronos_profiles.dll",
+                                                                          "size":  1485200,
+                                                                          "sha256":  "9682f7f508855980b9c31147493c962d43a0798c4596870cd7c5dee009859ea2"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_profiles.json",
+                                                        "size":  66696,
+                                                        "sha256":  "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u015-VkLayer_khronos_profiles.json",
+                                                                          "size":  66696,
+                                                                          "sha256":  "6095c28691757e083a8c1bef3c69ca76a8b5017e21acaf55d1bc7e82221a0fbe"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.dll",
+                                                        "size":  415632,
+                                                        "sha256":  "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u016-VkLayer_khronos_shader_object.dll",
+                                                                          "size":  415632,
+                                                                          "sha256":  "7026da236cecadd40b6a1723d0881349d9471592d98cabd60994f99dc2db3e53"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_shader_object.json",
+                                                        "size":  4455,
+                                                        "sha256":  "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u017-VkLayer_khronos_shader_object.json",
+                                                                          "size":  4455,
+                                                                          "sha256":  "18ecafc9a65e1b7af8cd0e36dc936026cdb3aed333c4ea5a7c17d6d9465cfaf4"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll",
+                                                        "size":  397192,
+                                                        "sha256":  "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u018-VkLayer_khronos_synchronization2.dll",
+                                                                          "size":  397192,
+                                                                          "sha256":  "485eb9b7f0320bd1af3af03dbe3a052d6f5e9cda14496bbe1a062d626d501eae"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json",
+                                                        "size":  1910,
+                                                        "sha256":  "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u019-VkLayer_khronos_synchronization2.json",
+                                                                          "size":  1910,
+                                                                          "sha256":  "a1e980a24be9a16a826b00c27d61b85ee0e2e17226dc9c4e8eec031879e5f26a"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll",
+                                                        "size":  19509136,
+                                                        "sha256":  "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u020-VkLayer_khronos_validation.dll",
+                                                                          "size":  19509136,
+                                                                          "sha256":  "27fc6a4ca52244f18337a652db638865abd679f6e1d129bf4770fd3e6c4f1a60"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json",
+                                                        "size":  95917,
+                                                        "sha256":  "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u021-VkLayer_khronos_validation.json",
+                                                                          "size":  95917,
+                                                                          "sha256":  "5c464b84457776d92a674de506f7b7a489294583a7d7609f78fcc52bc4406d09"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll",
+                                                        "size":  69056,
+                                                        "sha256":  "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u022-WinPixEventRuntime.dll",
+                                                                          "size":  69056,
+                                                                          "sha256":  "f5f6f69210cc958b92285ff444e2ef48f5c46b4d6470b07960739dbcb6554b54"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll",
+                                                        "size":  858152,
+                                                        "sha256":  "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u023-xaudio2_9redist.dll",
+                                                                          "size":  858152,
+                                                                          "sha256":  "e6ae545b31a5453f1b1002d434cc802a6088cf05c5faa414d7ebe00264161506"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Config/StagedBuild_StarbladeUnreal.ini",
+                                                        "size":  3,
+                                                        "sha256":  "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u024-StagedBuild_StarbladeUnreal.ini",
+                                                                          "size":  3,
+                                                                          "sha256":  "f1945cd6c19e56b3c1c78943ef5ec18116907a4ca1efc40a57d48ab1db7adfc5"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Content/Renderer/TessellationTable.bin",
+                                                        "size":  259568,
+                                                        "sha256":  "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u025-TessellationTable.bin",
+                                                                          "size":  259568,
+                                                                          "sha256":  "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Content/Slate/Cursor/invisible.cur",
+                                                        "size":  326,
+                                                        "sha256":  "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u026-invisible.cur",
+                                                                          "size":  326,
+                                                                          "sha256":  "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Extras/Redist/en-us/vc_redist.arm64.exe",
+                                                        "size":  11751688,
+                                                        "sha256":  "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u027-vc_redist.arm64.exe",
+                                                                          "size":  11751688,
+                                                                          "sha256":  "ebc1b8dc6731b2c7e791dd619aba19d5554b9e678364f3c2a35f125baafc0f54"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Extras/Redist/en-us/vc_redist.x64.exe",
+                                                        "size":  18569648,
+                                                        "sha256":  "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u028-vc_redist.x64.exe",
+                                                                          "size":  18569648,
+                                                                          "sha256":  "6ffdeeff6aae9f5dcd52217571b2c2a47de367af8aa3db953542bf25c4c29a0d"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll",
+                                                        "size":  17339384,
+                                                        "sha256":  "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u029-onnxruntime.dll",
+                                                                          "size":  17339384,
+                                                                          "sha256":  "eacc4d935137d67ab0cc1b896472d1de551dfc6545ed9ad74ab842400272e036"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Manifest_NonUFSFiles_Win64.txt",
+                                                        "size":  5594,
+                                                        "sha256":  "04d6c97912e6f4253e0c91c4a598ab77757a7b4fbd1537404e83bd3ff3a658f5",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u030-Manifest_NonUFSFiles_Win64.txt",
+                                                                          "size":  5594,
+                                                                          "sha256":  "04d6c97912e6f4253e0c91c4a598ab77757a7b4fbd1537404e83bd3ff3a658f5"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "Manifest_UFSFiles_Win64.txt",
+                                                        "size":  2697038,
+                                                        "sha256":  "572d89f9548df8e925dbe8acdb3bca5f54331719bd95b011a6c1087e283b09a9",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u031-Manifest_UFSFiles_Win64.txt",
+                                                                          "size":  2697038,
+                                                                          "sha256":  "572d89f9548df8e925dbe8acdb3bca5f54331719bd95b011a6c1087e283b09a9"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "NOTICES.txt",
+                                                        "size":  111,
+                                                        "sha256":  "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u032-NOTICES.txt",
+                                                                          "size":  111,
+                                                                          "sha256":  "ba49ae5586f817b36a2772269f71f899cb1f54b5f2720fad951319edd5e140b8"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/AngamaraPOC.exe",
+                                                        "size":  342707200,
+                                                        "sha256":  "78e43cc9dcf9cf95317cbc34a65917c3faaa1ec9f437060e751684778bf7a430",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u033-AngamaraPOC.exe",
+                                                                          "size":  342707200,
+                                                                          "sha256":  "78e43cc9dcf9cf95317cbc34a65917c3faaa1ec9f437060e751684778bf7a430"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/D3D12/x64/D3D12Core.dll",
+                                                        "size":  4831768,
+                                                        "sha256":  "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u034-D3D12Core.dll",
+                                                                          "size":  4831768,
+                                                                          "sha256":  "f0cbdba3043bc30e2a17dfd7d6c05e61c9c4098eb1d5ee8ccd2ab3f4696e8e20"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
+                                                        "size":  4943344,
+                                                        "sha256":  "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u035-d3d12SDKLayers.dll",
+                                                                          "size":  4943344,
+                                                                          "sha256":  "180a630861dc88d26db517da787009edf75e4c83309b819814b84b86f8db36c1"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/DML/x64/DirectML.dll",
+                                                        "size":  18538488,
+                                                        "sha256":  "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u036-DirectML.dll",
+                                                                          "size":  18538488,
+                                                                          "sha256":  "4e357e48c3fb00e5ac868f2b33ba5576873c013349e2cc1d7a9be0071253ac62"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/tbb12.dll",
+                                                        "size":  342456,
+                                                        "sha256":  "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u037-tbb12.dll",
+                                                                          "size":  342456,
+                                                                          "sha256":  "c489b6bd4dd2be18d4f8778e3f86caa7672ec8a206c9a54228b3bb60e2923f76"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Binaries/Win64/tbbmalloc.dll",
+                                                        "size":  117176,
+                                                        "sha256":  "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u038-tbbmalloc.dll",
+                                                                          "size":  117176,
+                                                                          "sha256":  "aca208101bba1e440e6fae6580eedd45508ec405c9674063baf7ca23d29316bd"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Content/Paks/global.ucas",
+                                                        "size":  3257504,
+                                                        "sha256":  "90f726d7becfbd005e6f3eaa5e039c104305093c4898479ec47d5db921d5e7c6",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u039-global.ucas",
+                                                                          "size":  3257504,
+                                                                          "sha256":  "90f726d7becfbd005e6f3eaa5e039c104305093c4898479ec47d5db921d5e7c6"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Content/Paks/global.utoc",
+                                                        "size":  794,
+                                                        "sha256":  "b25ede9b8b6a8ee96a7aa327d2f1a6d48e3a9c124ecb30e74f7d6afd4d7e07e8",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u040-global.utoc",
+                                                                          "size":  794,
+                                                                          "sha256":  "b25ede9b8b6a8ee96a7aa327d2f1a6d48e3a9c124ecb30e74f7d6afd4d7e07e8"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.pak",
+                                                        "size":  56796524,
+                                                        "sha256":  "3042fc1b5bc3324cab05405c7d1d19115b3e7747ed4572387bc7a967ae0650cc",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u041-StarbladeUnreal-Windows.pak",
+                                                                          "size":  56796524,
+                                                                          "sha256":  "3042fc1b5bc3324cab05405c7d1d19115b3e7747ed4572387bc7a967ae0650cc"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.ucas",
+                                                        "size":  10329589408,
+                                                        "sha256":  "3d4db689136859104f4b3b0428ff49c9a9be27b7e84ca10287d8a8b9e3e90292",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part001",
+                                                                          "size":  1992294400,
+                                                                          "sha256":  "ae204e1c1edc8fd94993dd3af75b266d960cfdc46a2b81d55d6ec18eca6239ca"
+                                                                      },
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part002",
+                                                                          "size":  1992294400,
+                                                                          "sha256":  "9f4f8ed605d7de7965bd01ce64125646eea48fb8599317c814a0adba36bd3568"
+                                                                      },
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part003",
+                                                                          "size":  1992294400,
+                                                                          "sha256":  "cb0b2c24c5f4c87c78b20aaead132456b618f3abd600054bb5daaa7d135af979"
+                                                                      },
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part004",
+                                                                          "size":  1992294400,
+                                                                          "sha256":  "06189c070fcc0740259dd0e8cb09bce321ea87177ef8154bbdbe2a4b3948c6d0"
+                                                                      },
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part005",
+                                                                          "size":  1992294400,
+                                                                          "sha256":  "10638deb4d9d8e298b1dd83b8322c4874e8dace54d7e145f9c981689614cb242"
+                                                                      },
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u042-StarbladeUnreal-Windows.ucas.part006",
+                                                                          "size":  368117408,
+                                                                          "sha256":  "a80089c0e02f123c173756642cdbf3d218d36db0cdba816aa6d7cdfbd4a67c39"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Content/Paks/StarbladeUnreal-Windows.utoc",
+                                                        "size":  5775478,
+                                                        "sha256":  "bcb3e2700dd76913b97ba26bd49bf070c1d44c4cbdc35659e26d17558e75ab6c",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u043-StarbladeUnreal-Windows.utoc",
+                                                                          "size":  5775478,
+                                                                          "sha256":  "bcb3e2700dd76913b97ba26bd49bf070c1d44c4cbdc35659e26d17558e75ab6c"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlss.dll",
+                                                        "size":  58956912,
+                                                        "sha256":  "d00b5b0ab29c3ca101b70c3a5ecb3a01b7ef33766a3383a28a18623083e6123e",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u044-nvngx_dlss.dll",
+                                                                          "size":  58956912,
+                                                                          "sha256":  "d00b5b0ab29c3ca101b70c3a5ecb3a01b7ef33766a3383a28a18623083e6123e"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/DLSS/Binaries/ThirdParty/Win64/nvngx_dlssd.dll",
+                                                        "size":  48343664,
+                                                        "sha256":  "b49435ae346f227feafe7bbe937d88277ea0ee7323975ec06488f377fdb46cee",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u045-nvngx_dlssd.dll",
+                                                                          "size":  48343664,
+                                                                          "sha256":  "b49435ae346f227feafe7bbe937d88277ea0ee7323975ec06488f377fdb46cee"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_framegeneration_dx12.dll",
+                                                        "size":  40085776,
+                                                        "sha256":  "02297beedd285e822d3a64f314cf00faf378dcec0edc47ff0c4dd71b3a8c2f18",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u046-amd_fidelityfx_framegeneration_dx12.dll",
+                                                                          "size":  40085776,
+                                                                          "sha256":  "02297beedd285e822d3a64f314cf00faf378dcec0edc47ff0c4dd71b3a8c2f18"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_loader_dx12.dll",
+                                                        "size":  26376,
+                                                        "sha256":  "e2d85aa05a9bd9ed8b38935fdf5199372cca6f74c12015143bb6f945ee1608aa",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u047-amd_fidelityfx_loader_dx12.dll",
+                                                                          "size":  26376,
+                                                                          "sha256":  "e2d85aa05a9bd9ed8b38935fdf5199372cca6f74c12015143bb6f945ee1608aa"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/FSR/Source/fidelityfx-sdk/Kits/FidelityFX/signedbin/amd_fidelityfx_upscaler_dx12.dll",
+                                                        "size":  28761864,
+                                                        "sha256":  "d0dcccc74a43c44ba435b7a369b456e0970d8a4464e4bd683119b374f2c9fb46",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u048-amd_fidelityfx_upscaler_dx12.dll",
+                                                                          "size":  28761864,
+                                                                          "sha256":  "d0dcccc74a43c44ba435b7a369b456e0970d8a4464e4bd683119b374f2c9fb46"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/nvngx_deepdvc.dll",
+                                                        "size":  12354672,
+                                                        "sha256":  "7a251b7b0a8477297d0145e7690ee513f616cdf0ad0b44a89a9e9d0e1cf2999c",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u049-nvngx_deepdvc.dll",
+                                                                          "size":  12354672,
+                                                                          "sha256":  "7a251b7b0a8477297d0145e7690ee513f616cdf0ad0b44a89a9e9d0e1cf2999c"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/nvngx_dlssg.dll",
+                                                        "size":  8044656,
+                                                        "sha256":  "b49508de88b4c590a84f56128871d784cb87aaa2d32a0258f7786fffaf837fdc",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u050-nvngx_dlssg.dll",
+                                                                          "size":  8044656,
+                                                                          "sha256":  "b49508de88b4c590a84f56128871d784cb87aaa2d32a0258f7786fffaf837fdc"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.common.dll",
+                                                        "size":  849536,
+                                                        "sha256":  "0ebd09bd8fe3ed12b08a40d38554ea7a63ae51d5fdecc4a60b9daf785d9bba4f",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u051-sl.common.dll",
+                                                                          "size":  849536,
+                                                                          "sha256":  "0ebd09bd8fe3ed12b08a40d38554ea7a63ae51d5fdecc4a60b9daf785d9bba4f"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.deepdvc.dll",
+                                                        "size":  382080,
+                                                        "sha256":  "aed0dd0fd0bc316c958c954a446722015a9671d18449bd525638077b536fac7e",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u052-sl.deepdvc.dll",
+                                                                          "size":  382080,
+                                                                          "sha256":  "aed0dd0fd0bc316c958c954a446722015a9671d18449bd525638077b536fac7e"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.dlss_g.dll",
+                                                        "size":  832128,
+                                                        "sha256":  "281d7611a2f319a7f3590cd3e37937231e10a18fbe22b8712477c68d60fcca49",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u053-sl.dlss_g.dll",
+                                                                          "size":  832128,
+                                                                          "sha256":  "281d7611a2f319a7f3590cd3e37937231e10a18fbe22b8712477c68d60fcca49"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.imgui.dll",
+                                                        "size":  1360512,
+                                                        "sha256":  "a6881008a8f6deeb23cd2bbd8b848a2a6bedf6d9f633b43bd210c8047f338691",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u054-sl.imgui.dll",
+                                                                          "size":  1360512,
+                                                                          "sha256":  "a6881008a8f6deeb23cd2bbd8b848a2a6bedf6d9f633b43bd210c8047f338691"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.interposer.dll",
+                                                        "size":  704640,
+                                                        "sha256":  "809fd5a595b52daa57288f7ac94843b28f06a7e8e99f3f5dea20cfd5fcec94d5",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u055-sl.interposer.dll",
+                                                                          "size":  704640,
+                                                                          "sha256":  "809fd5a595b52daa57288f7ac94843b28f06a7e8e99f3f5dea20cfd5fcec94d5"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.pcl.dll",
+                                                        "size":  354944,
+                                                        "sha256":  "ce7f155b2d9406524d81e6b57df3672f2101caba22c5763c6f20448d62ddb873",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u056-sl.pcl.dll",
+                                                                          "size":  354944,
+                                                                          "sha256":  "ce7f155b2d9406524d81e6b57df3672f2101caba22c5763c6f20448d62ddb873"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/Development/sl.reflex.dll",
+                                                        "size":  390272,
+                                                        "sha256":  "1f80e052cada9b2608fdd706ad0b2550b516ae3ade8fcb48569a86810c17ea3d",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u057-sl.reflex.dll",
+                                                                          "size":  390272,
+                                                                          "sha256":  "1f80e052cada9b2608fdd706ad0b2550b516ae3ade8fcb48569a86810c17ea3d"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_deepdvc.dll",
+                                                        "size":  3104880,
+                                                        "sha256":  "306556a9e64b90e9f94a6645c9425980a74a6ee47ae895bc10e3937edfa77419",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u058-nvngx_deepdvc.dll",
+                                                                          "size":  3104880,
+                                                                          "sha256":  "306556a9e64b90e9f94a6645c9425980a74a6ee47ae895bc10e3937edfa77419"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/nvngx_dlssg.dll",
+                                                        "size":  7506544,
+                                                        "sha256":  "8d59d49b36410dd6b62fef2503a5871d347415bd85d943fa0848563a95dd50c7",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u059-nvngx_dlssg.dll",
+                                                                          "size":  7506544,
+                                                                          "sha256":  "8d59d49b36410dd6b62fef2503a5871d347415bd85d943fa0848563a95dd50c7"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.common.dll",
+                                                        "size":  843904,
+                                                        "sha256":  "38eea3b4209afc455636ea372b5933d65fcc13becec6c84d101dcfc4d8648f75",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u060-sl.common.dll",
+                                                                          "size":  843904,
+                                                                          "sha256":  "38eea3b4209afc455636ea372b5933d65fcc13becec6c84d101dcfc4d8648f75"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.deepdvc.dll",
+                                                        "size":  376448,
+                                                        "sha256":  "2d493dccfefdc0580deb85afc65e70ae36adf77c6dd3c745c60623d9b8ac54f9",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u061-sl.deepdvc.dll",
+                                                                          "size":  376448,
+                                                                          "sha256":  "2d493dccfefdc0580deb85afc65e70ae36adf77c6dd3c745c60623d9b8ac54f9"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.dlss_g.dll",
+                                                        "size":  637056,
+                                                        "sha256":  "3ed9538df724993bea8a050195a6a78b9c8c8a566d5b05ade477aab3c390e90f",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u062-sl.dlss_g.dll",
+                                                                          "size":  637056,
+                                                                          "sha256":  "3ed9538df724993bea8a050195a6a78b9c8c8a566d5b05ade477aab3c390e90f"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.interposer.dll",
+                                                        "size":  652928,
+                                                        "sha256":  "b1d7395aebd7b9722841d64dcf7433680020b6a8e421f851c16d5ba0c2182edf",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u063-sl.interposer.dll",
+                                                                          "size":  652928,
+                                                                          "sha256":  "b1d7395aebd7b9722841d64dcf7433680020b6a8e421f851c16d5ba0c2182edf"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.pcl.dll",
+                                                        "size":  360064,
+                                                        "sha256":  "5698c38e722318681f215c9fe68e45b9bedd51378acc699d8eee26e961e57770",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u064-sl.pcl.dll",
+                                                                          "size":  360064,
+                                                                          "sha256":  "5698c38e722318681f215c9fe68e45b9bedd51378acc699d8eee26e961e57770"
+                                                                      }
+                                                                  ]
+                                                    },
+                                                    {
+                                                        "name":  "StarbladeUnreal/Plugins/StreamlineCore/Binaries/ThirdParty/Win64/sl.reflex.dll",
+                                                        "size":  388736,
+                                                        "sha256":  "443577e869352436ff7ec8f4d9c90418d3e95368436ce219261e0f4f07a38122",
+                                                        "parts":  [
+                                                                      {
+                                                                          "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v1.0.0/u065-sl.reflex.dll",
+                                                                          "size":  388736,
+                                                                          "sha256":  "443577e869352436ff7ec8f4d9c90418d3e95368436ce219261e0f4f07a38122"
                                                                       }
                                                                   ]
                                                     }
                                                 ]
-                                  },
-                      "macos":  {
-                                    "version":  "0.9.2",
-                                    "protocol":  27,
-                                    "launch":  "Starblade.app/Contents/MacOS/Starblade",
-                                    "files":  [
-                                                  {
-                                                      "name":  "Starblade-macos.zip",
-                                                      "size":  60247025,
-                                                      "sha256":  "81fe621a371f9af068f11d69a6c75b03b8dc32cad0a0040afb48867bdb4344f8",
-                                                      "unpack":  "zip",
-                                                      "parts":  [
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade-macos.zip",
-                                                                        "size":  60247025,
-                                                                        "sha256":  "81fe621a371f9af068f11d69a6c75b03b8dc32cad0a0040afb48867bdb4344f8"
-                                                                    }
-                                                                ]
-                                                  },
-                                                  {
-                                                      "name":  "Starblade.app/Contents/Resources/Starblade.pck",
-                                                      "size":  23107148012,
-                                                      "sha256":  "890c4ae61fc254980d9873a325bb804ba3c9af9c51dacd842088a85bc9cf8f01",
-                                                      "parts":  [
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part001",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "26c3181dde2197bff580ac622c8b7011228b30b38d3330a22fc103d8df5b2dad"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part002",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "fbeb51537a88a6045cd187403c0b85d1efc026d58f1e950959fac0d4c7f09e43"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part003",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "8ab448af45ecbbdacfe0f05a6c38e56eeb062d6a899628ced5fc7a0866fd6ca2"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part004",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "9dcf97ebdb3f0b9eea133787d3da0375ec7aacb141a026cb5eeb0487d1897f1a"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part005",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "c8da115f894b7a08d6760768ed2e45944f42a8af17c001374b736e1bd2567e26"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part006",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "6ff8dec59da92a615cb330d73a86cdfd9272d26d72f0831852f8a9cf09057ecd"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part007",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "34ad414c905cc49cd684e7f193e301f6e57597edca5223257baf4e5aaeba6460"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part008",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "fbacef828aee124bfe7a792f5f8ea7f100367a6489220b56738f66f42f5f2d4b"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part009",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "89202d2c2cd6ca43f46373b2890aa9bb8fe27b736dbb666fe5051c6df7e6c266"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part010",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "7189aff7f8f43784b00007da262a165e3867dc5f861df168d91dd2960f426ab2"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part011",
-                                                                        "size":  1992294400,
-                                                                        "sha256":  "494966af05136109f22bf207a9560664f9d7cc1097ae3a95cf5eac16fed68571"
-                                                                    },
-                                                                    {
-                                                                        "url":  "https://github.com/monkeykingstudio/starblade-releases/releases/download/game-v0.9.2/Starblade.pck.part012",
-                                                                        "size":  1191909612,
-                                                                        "sha256":  "3b00d408282e86101ac936465af8a234395c9460e5c7e92e53887d31812374c5"
-                                                                    }
-                                                                ]
-                                                  }
-                                              ]
-                                }
+                                  }
                   },
     "notes":  [
+                  {
+                      "version":  "1.0.0",
+                      "date":  "2026-11-06",
+                      "lines":  [
+                                    "Alpha 1.0 : Starblade passe sous Unreal Engine 5 (Windows, solo)",
+                                    "Nouvelle planète ANGAMAR-v2 : jungle, rivières, cascades, forteresse gobeline, meutes de raptors et Prédateurs Écarlates",
+                                    "Combat à pied refait : armes, visor holographique, carte (M), codex des espèces (N, J)",
+                                    "Le multijoueur et la version macOS reviendront plus tard",
+                                    "Si le jeu ne démarre pas : installer Microsoft Visual C++ Redistributable (x64)"
+                                ]
+                  },
                   {
                       "version":  "0.9.2",
                       "date":  "2026-11-01",
@@ -420,25 +1770,7 @@
                                     "COMBAT FORGE : nouvel éditeur de modules de combat à pied dans les OUTILS (décor, départ, spawners gobelins, groupes tactiques, phases, règles d\u0027événements, TESTER avec le vrai joueur et la vraie IA, VALIDER, PUBLIER, cinq exemples).",
                                     "En ligne : grenades, mouvements et gestes gérés par le serveur (protocole 19, les anciens clients sont refusés) ; les autres joueurs voient les lancers, roulades, bonds et plongeons."
                                 ]
-                  },
-                  {
-                      "version":  "0.5.10",
-                      "date":  "2026-10-28",
-                      "lines":  [
-                                    "À pied : vue uniquement en première personne avec les bras Manny, recharges où la main jette le chargeur vide et en prend un neuf ; au stand de tir, nouveaux bras en protoarmure (F2 pour comparer).",
-                                    "Couverture tactique : T pour se mettre à couvert, A / E pour se pencher, tir à l\u0027aveugle par-dessus ou par le côté ; les couvertures portent une étiquette holographique (orange abîmée, rouge détruite) et le scan de la visière passe sur N.",
-                                    "Les gobelins se mettent aussi à couvert, se penchent et tirent à l\u0027aveugle.",
-                                    "Sensation de tir refaite : recul propre à chaque arme, modes SEMI / AUTO (touche X), sons de rafale, de mécanique et de réverbération selon les lieux.",
-                                    "Dégâts localisés : vingt zones du corps, plaques d\u0027armure qui s\u0027usent, membres blessés puis hors d\u0027usage ; réglage VIOLENCE À PIED.",
-                                    "Un ennemi touché recule dans le sens du tir, pose un genou à terre ou tombe à la renverse en lâchant son arme, puis se relève et la ramasse ; un corps ne traverse plus le décor.",
-                                    "Sang seulement quand un tir touche la chair, jamais sur un bouclier ou une plaque d\u0027armure.",
-                                    "Effets de bouche, traçantes et impacts refaits pour les neuf armes à pied ; tirs ennemis bien visibles et audibles de loin.",
-                                    "Marqueurs de touche sur la visière : chair, armure, bouclier, bouclier brisé, critique, élimination.",
-                                    "Décor destructible sur FRACTURE et au stand de tir : caisses, murets, rochers, arbres et lampes se brisent en morceaux qui ont leur propre physique, avec poussière, étincelles et sons par matière ; rien ne reste suspendu au-dessus d\u0027un décor détruit.",
-                                    "Stand de tir : les cibles en bois perdent des éclats autour de chaque impact puis se relèvent entières.",
-                                    "Plantes : les buissons bruissent quand on les traverse ou qu\u0027on tire au travers. Sons de visée en tissu, armes plus fortes."
-                                ]
                   }
               ],
-    "status_url":  "https://urzewnyqguqfksenzpmx.supabase.co/functions/v1/server-control/public"
+    "status_url":  ""
 }
